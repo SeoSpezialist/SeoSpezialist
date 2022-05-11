@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SEO
 - 💞️ I’m looking to collaborate on SEO
 - 📫 How to reach me https://seo-spezialist.de
+- Current activity: https://seo-spezialist.de/sommerseo/
 
 <!---
 SeoSpezialist/SeoSpezialist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
