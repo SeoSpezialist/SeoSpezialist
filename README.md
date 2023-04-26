@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SEO
 - 💞️ I’m looking to collaborate on SEO
 - 📫 How to reach me https://seo-spezialist.de
-- Current activity: https://seo-spezialist.de/sommerseo/
+- Current activity: https://seo-spezialist.de/conversionzauber/
 - New link page: https://allmylinks.com/seo-nuernberg
 - New link page: https://solo.to/seo-nuernberg
 
